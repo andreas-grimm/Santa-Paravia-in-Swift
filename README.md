@@ -1,12 +1,23 @@
-This is the ReadMe File of the Project:
+# Santa Paravia & Fiumaccio.
+Translated from the original TRS-80 BASIC
 
-# Games "Santa Paravia" and "Hamurabi"
-Swift Port of anicent computer game for TRS-80
+Source code into C by Thomas Knox tknox@mac.com.
+Source code into Swift by Andreas Grimm andreas.grimm@gricom.eu
+Original program (C) 1979 by George Blank gwblank@postoffice.worldnet.att.net
 
-© 2025 Andreas Grimm, Use according to the included licence file (LICENSE.md)
+Copyright (C) 2025 Andreas Grimm
+Portions Copyright (C) 2000 by Thomas Knox.
+Portions Copyright (C) 1979 by George Blank.
+This program is free software; you can redistribute it and/or
+modify it under the terms of the GNU General Public License
+as published by the Free Software Foundation; either version 2
+of the License, or (at your option) any later version.
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU General Public License for more details.
+You should have received a copy of the GNU General Public License
+along with this program; if not, write to the Free Software
+Foundation, Inc., 59 Temple Place - Suite 330, Boston, MA 02111-1307, USA.
 
-The current version contains the following changes, bug fixes, and enhancements:
-
-0.0.1:
-
-project generated and take over of original code
+Andreas Grimm
