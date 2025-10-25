@@ -3,7 +3,7 @@ pipeline {
     stages {
         stage('Build') {
             steps {
-                sh 'swift build -c release'
+                sh '/home/jenkins/.local/share/swiftly/bin/swift build -c release'
             }
         }
         stage('Deploy') {
