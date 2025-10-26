@@ -3,6 +3,7 @@ pipeline {
     stages {
         stage('Build') {
             steps {
+                sh '/home/jenkins/.local/share/swiftly/bin/swift package clean'
                 sh '/home/jenkins/.local/share/swiftly/bin/swift build -c release'
             }
         }
