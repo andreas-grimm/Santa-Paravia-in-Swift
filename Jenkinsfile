@@ -9,7 +9,7 @@ pipeline {
         }
         stage('Deploy') {
             steps {
-                sh 'cp ~/Santa-Paravia-in-Swift/.build/release/Santa-Paravia /import/sol/work/Jenkins-Builds/Swift/Santa-Paravia'
+                sh 'cp ~/Santa-Paravia-in-Swift/.build/x86_64-unknown-linux-gnu/release/Santa-Paravia /import/sol/work/Jenkins-Builds/Swift/Santa-Paravia'
             }
         }
     }
